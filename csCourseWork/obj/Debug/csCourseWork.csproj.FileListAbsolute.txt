@@ -1,0 +1,7 @@
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\obj\Debug\csCourseWork.csprojAssemblyReference.cache
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\obj\Debug\csCourseWork.csproj.CoreCompileInputs.cache
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\bin\Debug\csCourseWork.exe.config
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\bin\Debug\csCourseWork.exe
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\bin\Debug\csCourseWork.pdb
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\obj\Debug\csCourseWork.exe
+E:\BrSTU\CourseWork\csCourseWork\csCourseWork\obj\Debug\csCourseWork.pdb

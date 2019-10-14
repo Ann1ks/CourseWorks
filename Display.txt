@@ -1,0 +1,30 @@
+-------------1-------------
+ Inventory number: 664274
+ Author of book: Tolstoy
+ Book name: Childhood
+ Amount of copies: 100000
+ Price of book: 92.5
+-------------2-------------
+ Inventory number: 547291
+ Author of book: Turgenev
+ Book name: Mumu
+ Amount of copies: 237000
+ Price of book: 39.9
+-------------3-------------
+ Inventory number: 580274
+ Author of book: Pushkin
+ Book name: Dubrovskii
+ Amount of copies: 251000
+ Price of book: 135
+-------------4-------------
+ Inventory number: 274691
+ Author of book: Chechov
+ Book name: Chameleon
+ Amount of copies: 20000
+ Price of book: 55
+-------------5-------------
+ Inventory number: 261920
+ Author of book: Turgenev
+ Book name: Asya
+ Amount of copies: 231000
+ Price of book: 52
